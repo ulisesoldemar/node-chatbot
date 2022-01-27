@@ -1,0 +1,261 @@
+{
+    "userInput": [
+        [
+            "hola",
+            "hey",
+            "buenos dias",
+            "buenas tardes",
+            "buenas noches",
+            "buenas"
+        ],
+        [
+            "como estas",
+            "que tal",
+            "que hay",
+            "como te va",
+            "estas bien",
+            "como va tu dia",
+            "que tal va tu dia",
+            "que onda",
+            "te ves bien"
+        ],
+        [
+            "que estas haciendo",
+            "que haces",
+            "que onda",
+            "te ves bien"
+        ],
+        [
+            "que tal tu dia",
+            "como estuvo tu dia",
+            "como ha ido tu dia",
+            "como esta yendo tu dia",
+            "que tal tu dia"
+        ],
+        [
+            "cuantos años tienes",
+            "que edad tienes",
+            "eres viejo"
+        ],
+        [
+            "quien eres",
+            "eres un humano",
+            "eres un robot",
+            "eres un bot",
+            "eres un humano o un robot"
+        ],
+        [
+            "quien te creo",
+            "quien te hizo",
+            "fuiste creado"
+        ],
+        [
+            "tu nombre por favor",
+            "tu nombre",
+            "quisiera saber tu nombre",
+            "cual es tu nombre",
+            "como te llamas",
+            "como te dicen",
+            "como te llamo",
+            "tienes nombre",
+            "dime tu nombre"
+        ],
+        [
+            "te amo",
+            "me gustas"
+        ],
+        [
+            "feliz",
+            "bien",
+            "divertido",
+            "maravilloso",
+            "fantastico",
+            "cool",
+            "bien",
+            "increible"
+        ],
+        [
+            "mal",
+            "aburrido",
+            "cansado",
+            "triste",
+            "enojado"
+        ],
+        [
+            "ayudame",
+            "cuentame una historia",
+            "dime una historia",
+            "cuentame un chiste",
+            "dime un chiste",
+            "estoy aburrido"
+        ],
+        [
+            "ah",
+            "si",
+            "ok",
+            "okay",
+            "bien",
+            "va",
+            "de acuerdo"
+        ],
+        [
+            "adios",
+            "nos vemos",
+            "hasta luego",
+            "bye",
+            "cuidate",
+            "hasta pronto"
+        ],
+        [
+            "que deberia comer",
+            "que como",
+            "que cocino hoy"
+        ],
+        [
+            "bro"
+        ],
+        [
+            "que",
+            "porque",
+            "por que",
+            "como",
+            "donde",
+            "cuando",
+            "quien"
+        ],
+        [
+            "no",
+            "no estoy seguro",
+            "quizas",
+            "no gracias",
+            "talvez",
+            "quiza",
+            "quizas",
+            "a lo mejor",
+            "posiblemente"
+        ],
+        [
+            ""
+        ],
+        [
+            "jaja",
+            "ja",
+            "lol",
+            "jeje",
+            "divertido",
+            "chiste",
+            "lmao",
+            "xd",
+            ":v",
+            "juasjuas"
+        ],
+        [
+            "estoy ok",
+            "estoy bien",
+            "estoy ok",
+            "me encuentro bien",
+            "bien"
+        ]
+    ],
+    "botReplies": [
+        [
+            "¡Hola!",
+            "¡Hey!",
+            "¡Como te va!",
+            "¿Qué tal?"
+        ],
+        [
+            "Bien, ¿y tú?",
+            "Muy bien, ¿y tú?",
+            "Fantástico, ¿y tú?"
+        ],
+        [
+            "No mucho",
+            "Me iré a dormir",
+            "Me estoy relajando",
+            "No lo sé realmente"
+        ],
+        [
+            "Bien hasta ahora"
+        ],
+        [
+            "Soy infinito"
+        ],
+        [
+            "Solo soy un bot",
+            "Soy un bot. ¿Tú qué eres?"
+        ],
+        [
+            "El único Dios verdadero, JavaScript"
+        ],
+        [
+            "Paco el Chato",
+            "Paco el Chato"
+        ],
+        [
+            "Yo también te amo",
+            "Yo también"
+        ],
+        [
+            "¿Te has sentido mal?",
+            "Me alegra oirlo"
+        ],
+        [
+            "¿Por qué?",
+            "¿Por qué? ¡No deberías!",
+            "Intenta ver YouTube o TikTok"
+        ],
+        [
+            "¿Sobre qué?",
+            "Había una vez... truz"
+        ],
+        [
+            "Cuéntame una historia",
+            "Cuéntame un chiste",
+            "Háblame de ti"
+        ],
+        [
+            "Adiós",
+            "Nos vemos"
+        ],
+        [
+            "Tacos",
+            "Pizza",
+            "Tlayudas"
+        ],
+        [
+            "Bro!"
+        ],
+        [
+            "¡Gran pregunta!"
+        ],
+        [
+            "Está bien",
+            "Lo entiendo",
+            "¿De qué quieres hablar?"
+        ],
+        [
+            "Por favor di algo :("
+        ],
+        [
+            "Jaja",
+            "Buena esa"
+        ],
+        [
+            "Eso está bien",
+            "bien",
+            "okay",
+            "ok",
+            "va"
+        ]
+    ],
+    "alternative": [
+        "Igual",
+        "Vamos...",
+        "Bro...",
+        "Intenta de nuevo",
+        "Te eschucho...",
+        "No te entiendo :/",
+        "xd"
+    ]
+}
